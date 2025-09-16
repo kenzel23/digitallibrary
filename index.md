@@ -20,5 +20,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 ---
 *Powered by Github Pages*
 
-
 <p></a href="webti/halaman1.html">halaman 1</a>
