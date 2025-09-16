@@ -17,8 +17,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Pendidikan Agama Islam dan Budi Pekerti](ebook/Islam-BS-KLS-XI_compressed_compressed-compressed-compressed.pdf) - Abd. Rahman, dkk (2021)
 11. [BEYOND THE BOOKSHELF VIRTUAL REALITY](ebook/BEYOND_THE_BOOKSHELF_VIRTUAL_REALITY(Rangkuman).pdf) - yuda (2025)
   <hr>  
+  <a href="webti/halaman1.html">halaman 1</a>
+  
 ---
-<a href="webti/halaman1.html">halaman 1</a>
 *Powered by Github Pages*
 
 
